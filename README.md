@@ -32,7 +32,7 @@ in the other hand Github is a cloud platform used to host the code and it is git
 
     your local repository consists of three "trees" maintained by git. the first one is your Working Directory which holds the actual files. the second one is the Index which acts as a staging area and finally the HEAD which points to the last commit you've made.
 
-    [image]
+    ![trees](https://user-images.githubusercontent.com/15571628/212670263-84dfc6ca-8cfe-40d4-b1d8-14d427f222e5.png)
 
 4. add & commit 
     You can propose changes (add it to the Index) using 
@@ -75,9 +75,10 @@ in the other hand Github is a cloud platform used to host the code and it is git
 
 7. branching 
 
-    Branches are used to develop features isolated from each other. The master branch is the "default" branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.    
+    Branches are used to develop features isolated from each other. The master branch is the "default" branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.  
+    
+    ![branches](https://user-images.githubusercontent.com/15571628/212670636-ab427c3c-8d3d-4096-bf79-093b44e540c1.png)
 
-    [image]
 
     create a new branch named "feature_x" and switch to it using
     ```
